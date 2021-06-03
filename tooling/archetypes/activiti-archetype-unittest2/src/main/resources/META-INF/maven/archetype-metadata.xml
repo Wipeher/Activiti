@@ -11,7 +11,7 @@
      <directory>src/main/resources</directory>
      <includes>
        <include>activiti.cfg.xml</include>
-       <include>logbak.xml</include>
+       <include>logback.xml</include>
        <include>second_approve.bpmn20.xml</include>
      </includes>
    </fileSet>
