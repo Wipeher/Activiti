@@ -29,7 +29,7 @@
     <logger name="root" >
         <level value="ERROR"/>
     </logger>
-    <logger name="com.imooc" >
+    <logger name="com.klc" >
         <level value="DEBUG"/>
     </logger>
     <root>
